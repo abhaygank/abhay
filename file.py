@@ -1,2 +1,0 @@
-fen fi
-print("Something")
