@@ -7,4 +7,10 @@ rehgoyiugyureg
 
 frejkuhygergfyterfeyurgfuyergfeyurgeryjiugeyrjofiuujyberueyrbveyrtbi7i
 
+<<<<<<< HEAD
 hello
+=======
+hello
+f8oiueyf7yfie
+>>>>>>> feature-branch
+>>>>>>> b8a1b1b (hello)
